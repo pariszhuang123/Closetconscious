@@ -1,0 +1,20 @@
+name: closet_conscious
+description: This is a virtual closet app that focus to help people to be more sustainable in their clothing purchase. # Optional but recommended
+
+# The following line specifies the version of your application, it's optional but good to maintain.
+version: 1.0.0+1
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43 followed by an optional build number such as +1.
+# Both the version and the builder number may be overridden in flutter build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+
+environment:
+  sdk: '>=2.12.0 <3.19.2'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.7
+# Add your other dependencies here
