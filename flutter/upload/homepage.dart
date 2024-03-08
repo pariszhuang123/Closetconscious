@@ -1,6 +1,4 @@
-import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:image_picker/image_picker.dart';
 
 class MyHomePage extends StatefulWidget {
   @override
@@ -8,8 +6,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 // At the top of _MyHomePageState
-File? _image; // Import 'dart:io' to use File
-
 class _MyHomePageState extends State<MyHomePage> {
   // Add your state variables here
 
