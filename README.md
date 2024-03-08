@@ -1,2 +1,0 @@
-# Closetconscious
-Virtual Closet
